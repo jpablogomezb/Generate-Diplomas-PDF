@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"e",
+				"except"
+			],
+			[
+				"re",
+				"receiver"
+			],
+			[
+				"w",
+				"workshop"
+			],
+			[
 				"tim",
 				"timestamp"
 			],
@@ -26,10 +38,6 @@
 			[
 				"stop",
 				"stop_words"
-			],
-			[
-				"re",
-				"return"
 			],
 			[
 				"clea",
@@ -388,10 +396,6 @@
 				"frm"
 			],
 			[
-				"e",
-				"EMAIL_HOST"
-			],
-			[
 				"E",
 				"EMAIL_HOST"
 			],
@@ -510,10 +514,6 @@
 			[
 				"mi",
 				"midPointY"
-			],
-			[
-				"mid",
-				"midPointX"
 			]
 		]
 	},
@@ -550,8 +550,15 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/JPGBS/Dev/generate-pdf-diploma"
+	],
 	"file_history":
 	[
+		"/Users/JPGBS/Dev/generate-pdf-diploma/.gitignore",
+		"/Users/JPGBS/Dev/generate-pdf-diploma/generate-diploma.py",
+		"/Users/JPGBS/Dev/genera-diplomas/genera-diplomas.py",
 		"/Users/JPGBS/Dev/scraping/src/scrape2.py",
 		"/Users/JPGBS/Dev/scraping/src/csv/tim-blog.csv",
 		"/Users/JPGBS/Geoinnovare/Proyectos_Web/Temaca/index-temaca-bckup.html",
@@ -676,10 +683,7 @@
 		"/Users/JPGBS/Desktop/SA_WEB/src/project/local_settings.py",
 		"/Users/JPGBS/Documents/Crowdsourcing_VGI/Shareabouts/ghp-shareabouts-map-master/app/index.html",
 		"/Users/JPGBS/Documents/Crowdsourcing_VGI/Shareabouts/ghp-shareabouts-map-master/app/scripts/main.js",
-		"/Users/JPGBS/Desktop/lwc/src/lwc/settings/base.py",
-		"/Users/JPGBS/Desktop/lwc/src/lwc/settings/__init__.py",
-		"/Users/JPGBS/Desktop/error1.html",
-		"/Users/JPGBS/Desktop/sh_api_pararrayos/src/sa_api_v1/apikey_v1/models.py"
+		"/Users/JPGBS/Desktop/lwc/src/lwc/settings/base.py"
 	],
 	"find":
 	{
@@ -697,6 +701,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"receiver"
 		],
 		"highlight": true,
 		"in_selection": false,

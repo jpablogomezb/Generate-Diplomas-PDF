@@ -67,7 +67,7 @@ def make_certi( ID, name, workshop, w_x, w_y, date, signer):
 
 # Email the certificate as an attachment
 def email_certi( filename, receiver, workshop):
-    username = "jpablogomezb.development" #EMAIL ACCOUNT (USERNAME) HERE
+    username = "jpablogomezb.development" #EMAIL ACCOUNT (USERNAME) here
     password = "" #PASSWORD HERE
     sender = username + '@gmail.com'
 
